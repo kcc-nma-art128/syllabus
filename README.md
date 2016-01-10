@@ -147,3 +147,14 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
   + *Ensure Quality assurance via due diligence and thorough testing.*
   + *Reflect upon your experience and share your experience with others.*
   + *Key Deliverables: Coded Final Site #3.*
+
+
+## Office Hours
+Office hours are held in the computer labs, not at my office. They are operated on a first-come-first-served basis and organized via a sign-up sheet on the whiteboard at the beginning of office hours.
+
+This semester my office hours are:
+- Tuesdays and Thursdays 7:30am-8:00am in Kopiko 202A
+
+
+## Emergency Contact
+In the case of an emergency or if you are unable to get a hold of the instructor and have already tried contacting Chris via phone (808-734-9707) and email ([epilande@hawaii.edu](mailto:epilande@hawaii.edu)), you can next contact the Arts & Humanties department chair, Sharon Rowe, by phone (808-734-9282) or email ([srowe@hawaii.edu](mailto:srowe@hawaii.edu)).
