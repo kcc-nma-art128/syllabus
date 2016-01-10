@@ -33,6 +33,18 @@ Upon successful completion of ART 128, the student should be able to:
 - Synthesize the concepts and principles of interface design with interface programming in the creation of web sites that integrates conceptual thinking, technical execution, and aesthetic application.
 
 
+## Course Content
+The general framework for this course is determined by the stages of the creative web design process for web design projects, consisting of defining, drafting, designing, developing, and delivering web sites.
+
+This course addresses the final two stages of this process:
+
+1. ~~**The Definition Phase** (i.e. defining the project)~~
+1. ~~**The Drafting Phase** (i.e. drafting conceptual plans such as a site maps, wireframes, etc).~~
+1. ~~**The Design Phase** (i.e. designing the user interface (UI) via design mockups)~~
+1. **The Development Phase** (i.e. coding the front-end of the site via HTML & CSS)
+1. **The Due Diligence Phase** (i.e. testing the site to ensure quality assurance)
+
+
 
 
 
