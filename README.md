@@ -79,6 +79,13 @@ Additional materials may include an external hard drive or thumbnail drive with 
 capacity of 4 GB.
 
 
+## Instructor's Expectation:
+Attendance and online class participation are important to succeed in this course. It is essential that you attend both face-to-face class meetings, arrive promptly, and remain for the full duration of the scheduled class periods. Time outside of class and at your internship location is required in order to meet the requirements of the class. All assignments are due by posting them online by the specified due date/time as specified on course schedule.
+
+Please use the Laulima's online discussion feature for general questions that may benefit others or
+that others can answer (instead of email), and Laulima's private messages feature, as necessary.
+
+
 
 
 
