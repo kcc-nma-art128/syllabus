@@ -131,3 +131,19 @@ In all campus environments, Disruptive Behavior will not be tolerated. This mean
 
 ## This Class is a "Safe Zone"
 Discriminatory or rude comments of any kind, particularly regarding gender, ethnicity, sexual orientation, or religion, will not be tolerated.
+
+
+## Schedule
+#### Week 1-8 - Site #1: Company Name 1
+- **Intro to the basics of front-end development (HTML & CSS)**
+  + *Key Deliverable: Coded Site #1.*
+
+#### Week 9-11 - Site #2: Company Name 2
+- **Applying the basics of front-end development via a provided design**
+  + *Key Deliverable: Coded Site #2.*
+
+#### Week 12-17 - Site #3: Final Custom Design Site
+- **Applying the basics of front-end development via a custom design**
+  + *Ensure Quality assurance via due diligence and thorough testing.*
+  + *Reflect upon your experience and share your experience with others.*
+  + *Key Deliverables: Coded Final Site #3.*
