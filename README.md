@@ -86,6 +86,34 @@ Please use the Laulima's online discussion feature for general questions that ma
 that others can answer (instead of email), and Laulima's private messages feature, as necessary.
 
 
+## Method of Instruction
+The method of instruction will include individual feedback/instruction, lectures, demonstrations, class discussions, and critiques.
 
 
+## Method of Evaluation & Grading Policy
+The methods of evaluation used in this course are broken down as follows:
+- **Projects & Assignments - 80%**
+- **Class Participation - 20%**
 
+Students will be expected to participate as active class members. This includes attending all classes; meeting all project deadlines; completing production time outside of class and in the lab environment; and participating as dependable team members. During critiques, all students are required to participate as both presenters and critics.
+
+Grading is based on projects and class participation during critiques and online. It is the responsibility of the student to take notes, plan accordingly, and turn in completed assignments on the due dates. Missing a deadline will result in a point reduction equivalent to a full letter grade, unless there is a valid medical reason or a family emergency. Class Participation is calculated
+based upon a student’s participation during critiques and online via Laulima in the discussion area. Projects may be revised and turned in again for re-grading.
+
+Three major components of the class are worth 100-200 points each, with a total of 500 points for the course grade. The 500 Points for the final course grade can be broken down as follows:
+
+- **Site #1 (Week-by-Week, Step-by-Step Coding)** - 200 Points
+  + 8 Steps (25 Points each)
+- **Site #2 (Midterm)** - 100 Points
+  + Coded Site Due
+- **Site #3 (Midterm)** - 100 Points
+  + Coded Site Due
+- **Class Participation** - 100 Points
+  + Participation online via Laulima and at the critiques
+
+Dividing the total 500 points by 5 will yield a more legible final course letter grade, dictated as follows:
+- **A** (90–100)
+- **B** (80–89)
+- **C** (70–79)
+- **D** (60–69)
+- **F** (59–0)
