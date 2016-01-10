@@ -117,3 +117,17 @@ Dividing the total 500 points by 5 will yield a more legible final course letter
 - **C** (70–79)
 - **D** (60–69)
 - **F** (59–0)
+
+
+## Special Student Services
+If you are a student with a documented disability and have not voluntarily disclosed the nature of your disability so that we may coordinate the accommodations you need, you are invited to contact the Disability Support Services Office in Ilima 107, ph.734-9552, or email [kapdss@hawaii.edu](mailto:kapdss@hawaii.edu) for assistance. For students whose primary disability is Deaf or hard of hearing, contact the KCC Deaf Center in Manono 102, ph. 734-9210 (V) or 447-1379 (videophone).
+
+
+## Student Conduct Code
+A college campus is a community with specific behavior expectations designed to allow all students, faculty, and staff to flourish. Please familiarize yourself with KCC's Student Conduct Code in the course catalog. You should know your rights and responsibilities on campus. The Student Conduct Code describes specific campus policies related to: drug and alcohol use, smoking, lethal weapons, sexual harassment and sexual assault, academic honesty, nondiscrimination, and family privacy.
+
+In all campus environments, Disruptive Behavior will not be tolerated. This means: any speech or action that **(1)** is disrespectful, offensive, and/or threatening; **(2)** interferes with the learning activities of other students; **(3)** impedes the delivery of college services; and/or **(4)** has a negative impact in any learning environment.
+
+
+## This Class is a "Safe Zone"
+Discriminatory or rude comments of any kind, particularly regarding gender, ethnicity, sexual orientation, or religion, will not be tolerated.
