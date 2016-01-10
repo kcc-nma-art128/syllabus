@@ -23,8 +23,14 @@ ART 128 Interface Programming 1 provides a foundation of skills, techniques, and
 
 
 
-
-
+## Course Objectives & Competencies
+Upon successful completion of ART 128, the student should be able to:
+- Apply basic concepts and principles of the front-end interface programming technologies HTML, CSS, and JavaScript in the creation of web-standard compliant websites.
+- Analyze and evaluate the source code of existing websites for the use of well-formed, semantic markup, cross-platform/cross-browser compatibility, validation, and accessibility issues.
+- Apply knowledge of the theory, history, and principles of interface design in the creation new media art.
+- Apply successful problem-solving skills utilizing industry standard applications, technologies, and techniques in the creative and technical production process.
+- Communicate effectively, both visually and verbally, by presenting work, defending design decisions, and by participating as an active critic during group critiques.
+- Synthesize the concepts and principles of interface design with interface programming in the creation of web sites that integrates conceptual thinking, technical execution, and aesthetic application.
 
 
 
