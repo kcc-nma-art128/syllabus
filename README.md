@@ -58,6 +58,27 @@ This course addresses the final two stages of this process:
 - Synthesize all of the concepts and principles of front-end interface programming by creating websites that are robust, flexible, adaptable, and easy to maintain.
 
 
+## Texts
+There are no required texts for this course. Readings will be supplied by the instructor on a week to week basis, in either paper handout form or online.
+Recommended, but not required texts:
+
+- **HTML & CSS: Visual QuickStart Guide, 8th Edition.**
+   by Elizabeth Castro.
+
+- **Designing With Web Standards, 3rd Edition.**
+   by Jeffrey Zeldman and Ethan Marcotte.
+
+- **HTML & CSS: Design and Build Websites**
+   by Jon Duckett.
+
+
+## Materials
+All students are required to have hosting space to post their assignments, internship documentation, and ultimately their final presentation. Students are required to purchase a hosting plan with a third party hosting provider. Past students have purchased hosting plans from hosting providers such as Bluehost and GoDaddy (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click install/support for popular CMS options (Wordpress, Joomla, Drupal, etc), and a low, competitive price (an example rate is around $3-$5/month – this is subject to change based upon current trends for hosting prices).
+
+Additional materials may include an external hard drive or thumbnail drive with a minimum
+capacity of 4 GB.
+
+
 
 
 
