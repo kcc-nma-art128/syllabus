@@ -45,6 +45,19 @@ This course addresses the final two stages of this process:
 1. **The Due Diligence Phase** (i.e. testing the site to ensure quality assurance)
 
 
+## Topics addressed & content
+- Intro to Intermediate front-end web development (HTML, CSS, & JavaScript)
+- HTML, CSS, and JavaScript syntax.
+- Separating content from style/presentation using HTML and CSS.
+- Manually hand-coding well-formed, semantic HTML, including proper use of titles, headings, lists, id's, and classes without the use of a WYSIWYG editor.
+- Interface programming topics including CSS for layout/positioning (normal flow, absolute positioning, relative positioning, floating, etc), cross-browser compatibility, accessibility, and code validation.
+- Interface programming techniques for common interface elements and design patterns including CSS pseudo classes (hover/rollover states), navigation and menu styles (styling lists), image replacement (IR), and controlling HTML/DHTML via Javascript/DOM scripting.
+- Critical analysis of HTML, CSS, and JavaScript code used on contemporary Web sites.
+- Going through the full design process of converting a visual interface design into a working, interactive interface.
+- Quality Assurance Testing - problem-solving and troubleshooting HTML, CSS, and JavaScript by reading, understanding, and editing the code. Demonstrating an expanded vocabulary and an understanding of the importance of good front-end practices by presenting work, speaking about it articulately, defending coding decisions, and by participating as an active critic during group critiques.
+- Synthesize all of the concepts and principles of front-end interface programming by creating websites that are robust, flexible, adaptable, and easy to maintain.
+
+
 
 
 
