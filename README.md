@@ -21,6 +21,21 @@ ART 128 Interface Programming 1 provides a foundation of skills, techniques, and
 **Prerequisite(s):** *Art 112 with a grade of "C" or higher and satisfactory completion of the Interface Programming portfolio review or acceptance into a NMA AS specialization.*
 
 
+## Table of Contents
+1. [Course Objectives & Competencies](#course-objectives--competencies)
+1. [Course Content](#course-content)
+1. [Topics addressed & content](#topics-addressed--content)
+1. [Texts](#texts)
+1. [Materials](#materials)
+1. [Instructor's Expectation](#instructors-expectation)
+1. [Method of Instruction](#method-of-instruction)
+1. [Method of Evaluation & Grading Policy](#method-of-evaluation--grading-policy)
+1. [Special Student Services](#special-student-services)
+1. [Student Conduct Code](#student-conduct-code)
+1. [This Class is a "Safe Zone"](#this-class-is-a-safe-zone)
+1. [Schedule](#schedule)
+1. [Office Hours](#office-hours)
+1. [Emergency Contact](#emergency-contact)
 
 
 ## Course Objectives & Competencies
