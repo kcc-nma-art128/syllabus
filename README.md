@@ -164,6 +164,31 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
   + *Key Deliverables: Coded Final Site #3.*
 
 
+## Week-by-Week
+- **Weeks 1**
+  + Intro to the Course
+- **Weeks 2**
+  + HTML & CSS
+- **Weeks 3**
+  + Box Model & Block Elements
+- **Weeks 4**
+  + Intro to CSS Positioning & IR
+- **Weeks 5**
+  + Unordered List for Navigation
+- **Weeks 6**
+  + Layout: Columns & Image Sprites
+- **Weeks 7**
+  + Sub Pages
+- **Weeks 8**
+  + Intro to Version Control
+- **Weeks 9-10**
+  + Mid-term Project
+- **Weeks 11**
+  + No Class – Spring Break
+- **Weeks 12-17**
+  + Final Project
+
+
 ## Office Hours
 Office hours are held in the computer labs, not at my office. They are operated on a first-come-first-served basis and organized via a sign-up sheet on the whiteboard at the beginning of office hours.
 
