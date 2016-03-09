@@ -121,7 +121,7 @@ Three major components of the class are worth 100-200 points each, with a total 
   + 8 Steps (25 Points each)
 - **Site #2 (Midterm)** - 100 Points
   + Coded Site Due
-- **Site #3 (Midterm)** - 100 Points
+- **Site #3 (Final)** - 100 Points
   + Coded Site Due
 - **Class Participation** - 100 Points
   + Participation online via Laulima and at the critiques
